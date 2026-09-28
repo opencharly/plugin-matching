@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-matching:
     candy:
+        version: 2026.176.2100
         description: |-
             The `matching` check verb relocated into a candy: pure in-process value
             matching (no target probe) — coerces plugin_input.matching to a string and
